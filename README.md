@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
+See demo at [stackblitz.com](https://stackblitz.com/github/raj2033/resizable-input-box)
+
+## App Screenshot
+
+![angular resizable input screenshot](https://i.imgur.com/szhB6A1.png)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
